@@ -13,7 +13,7 @@ aws-powershell-user-guide
 #########################
 
 This repository contains source content for the official `AWS Tools for Windows Powershell User
-Guide <psguide>`_.
+Guide psguide_.
 
 The guide content is written in reStructuredText_ and built using Sphinx_. It relies upon content
 which is provided in the AWS documentation team's `shared content`_ repository.
