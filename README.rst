@@ -82,7 +82,7 @@ repository.
 .. =================================================================================
 
 .. _`available sphinx builders`: http://www.sphinx-doc.org/en/stable/builders.html
-.. _`psguide`: https://docs.aws.amazon.com/powershell/latest/userguide/pstools-welcome.html
+.. _`AWS Tools for Windows Powershell User Guide`: https://docs.aws.amazon.com/powershell/latest/userguide/pstools-welcome.html
 .. _`forking the repository`: https://help.github.com/articles/fork-a-repo/
 .. _`pull request`: https://help.github.com/articles/using-pull-requests/
 .. _`shared content`: https://github.com/awsdocs/aws-doc-shared-content
